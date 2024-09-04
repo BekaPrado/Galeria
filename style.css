@@ -1,0 +1,30 @@
+h1{
+   background-color: pink; 
+   color:deeppink ;
+   padding: 40px;
+   text-align: center;
+}
+
+body{
+    background-color: mistyrose;
+}
+
+
+
+img{
+    width: 610px;
+    height: 410px;
+    object-fit: 200px;
+    margin: 2.5px;
+    border: 8px solid lightpink;
+    align-self: center;
+}
+
+
+h5{
+    color: deeppink
+}
+
+h5{
+    text-align: center;
+}
